@@ -125,7 +125,8 @@ Feel free to use, modify, and share with credits.
 
 ---
 
-## 🙋‍♀️ Need Help?
+## 📬 Contact  
 
-Have questions or want improvements?
-Raise an issue or reach out via GitHub.
+For any inquiries or feedback, feel free to reach out:    
+🔗 **GitHub**: [Rachana-Hegde](https://github.com/Rachana-Hegde)  
+
